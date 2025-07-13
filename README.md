@@ -22,7 +22,7 @@ This project is a Streamlit-based interactive dashboard for forecasting Tesla st
 - `requirements.txt`: Python dependency list
 
 ## 📽 Demo Preview
-🎥 [Insert demo video or gif link here — optional]
+🎥 https://drive.google.com/file/d/1853sigCVOq5Ys1WVq-gcKjvM2YchQslb/view?usp=sharing
 
 ## 📌 How to Run Locally
 
