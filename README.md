@@ -1,1 +1,33 @@
-# tesla-stock-dashboard
+
+# 📊 Tesla Stock Forecast Dashboard
+
+This project is a Streamlit-based interactive dashboard for forecasting Tesla stock prices using classical and deep learning models.
+
+## 🚀 Features
+
+- 📈 Time Series Forecasting using:
+  - ARIMA
+  - SARIMA
+  - LSTM
+  - GRU
+- 📊 Model comparison with RMSE, MAE, MSE
+- 📉 Interactive plots for actual vs predicted prices
+- 🔍 Clean UI built with Streamlit
+
+## 📂 Files Used
+- `tesla_stock.csv`: Historical Tesla stock prices
+- `tesla_forecast_comparison_final.csv`: ARIMA/SARIMA forecasts
+- `deep_learning_forecast.csv`: LSTM/GRU predictions
+- `app.py`: Streamlit app script
+- `requirements.txt`: Python dependency list
+
+## 📽 Demo Preview
+🎥 [Insert demo video or gif link here — optional]
+
+## 📌 How to Run Locally
+
+```bash
+git clone https://github.com/Akashanjalo/tesla-stock-dashboard.git
+cd tesla-stock-dashboard
+pip install -r requirements.txt
+streamlit run app.py
